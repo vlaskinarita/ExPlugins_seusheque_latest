@@ -2,8 +2,11 @@
 v 1.2.12.9 from 15.02.2024
 
 obfuscated version
+
 ![image](https://github.com/vlaskinarita/ExPlugins_seusheque_latest/assets/120003563/24773f0e-f602-411f-a0e0-8f77510057f5)
+
 all string decompiled  = > u get this
+
 ![image](https://github.com/vlaskinarita/ExPlugins_seusheque_latest/assets/120003563/6901d309-62d9-4456-b653-5b4cf9d73ae9)
 
 
@@ -16,8 +19,3 @@ to get access just:
 ☑️join to my discord: the link to discord will be received on the boosty site after you sign up - sorry - protection from spammers.
 
 ☑️PM me your github name.
-
-☑️The price includes unlimited (within reasonable limits) help in using/understanding the code of this complex Core,
-which will allow you to write cool add-ons/plugins and you will be able to get donations for them using our distribution network.
-
-☑️I find it a bit difficult to communicate in text mode, so maybe you can use your telegram account, where we can chat and talk about the necessary points by voice. In that case, whisper to me  https://t.me/Wlastas_GameAssist
