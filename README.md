@@ -2,7 +2,7 @@
 
 ☑️v 1.2.12.9 from 15.02.2024
 
-Bad initial obfuscated cersion:
+Bad initial obfuscated version:
 
 ![image](https://github.com/vlaskinarita/ExPlugins_seusheque_latest/assets/120003563/24773f0e-f602-411f-a0e0-8f77510057f5)
 
