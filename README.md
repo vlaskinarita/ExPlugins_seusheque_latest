@@ -2,11 +2,11 @@
 
 ☑️v 1.2.12.9 from 15.02.2024
 
-obfuscated version
+Bad initial obfuscated cersion:
 
 ![image](https://github.com/vlaskinarita/ExPlugins_seusheque_latest/assets/120003563/24773f0e-f602-411f-a0e0-8f77510057f5)
 
-all string decompiled  = > u get this
+all string decompiled  = > u will get this one...
 
 ![image](https://github.com/vlaskinarita/ExPlugins_seusheque_latest/assets/120003563/6901d309-62d9-4456-b653-5b4cf9d73ae9)
 
